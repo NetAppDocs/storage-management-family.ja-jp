@@ -1,0 +1,94 @@
+---
+product-family:
+  title: NetAppコンソールストレージ管理
+  lead: NetAppコンソールは、オンプレミスおよびマルチクラウド環境全体のストレージとデータ サービスの集中管理を提供します。統合された制御、操作の簡素化、安全な管理を実現します。ストレージ製品別に参照するか、検索を使用します。
+  summary: NetAppコンソールは、オンプレミスおよびマルチクラウド環境全体のストレージとデータ サービスの集中管理を提供します。統合された制御、操作の簡素化、安全な管理を実現します。ストレージ製品別に参照するか、検索を使用します。
+  sidebarlinks:
+  - title: 全て
+    tags: all
+    class: active
+  - title: AWS
+    tags: aws
+  - title: Azure
+    tags: azure
+  - title: Google Cloud
+    tags: gcp
+  - title: NetAppデータサービス
+    tags: data services
+  - title: NetAppコンソール
+    tags: console
+  - title: オンプレミス
+    tags: on-prem
+  - title: ストレージサブスクリプション
+    tags: subscriptions
+  tiles:
+  - title: リリース ノート
+    icon: "./media/icon-docs.png"
+    url: "../console-relnotes/index.html"
+    summary: NetAppコンソール ストレージ管理とNetAppデータ サービスの新機能について説明します。
+    tags: all
+  - title: NetAppコンソール管理
+    icon: "./media/icon-admin.png"
+    url: "../console-setup-admin/index.html"
+    summary: NetAppコンソールの使用を開始し、アイデンティティとアクセス管理、エージェントなどを管理する方法を学習します。
+    tags: all,connectors,iam
+  - title: NetAppデータサービス
+    icon: "./media/icon-storagegrid.png"
+    url: "../data-services-family/index.html"
+    summary: データ インフラストラクチャのセキュリティを確保し保護するためのNetAppデータ サービスをご確認ください。
+    tags: all,data services
+  - title: Amazon FSx for NetApp ONTAP
+    icon: "./media/icon-fsx.png"
+    url: "../storage-management-fsx-ontap/index.html"
+    summary: ONTAPの全機能をネイティブの AWS 管理サービスとして活用します。
+    tags: all, aws
+  - title: Amazon S3 ストレージ
+    icon: "./media/icon-s3.png"
+    url: "../storage-management-s3-storage/index.html"
+    summary: AWS アカウント内の Amazon S3 バケットを検出して管理します。
+    tags: all,aws
+  - title: Azure BLOB ストレージ
+    icon: "./media/icon-azure-blob.png"
+    url: "../storage-management-blob-storage/index.html"
+    summary: Azure サブスクリプションで Azure Blob Storage を検出し、管理します。
+    tags: all,azure
+  - title: Azure NetApp Files
+    icon: "./media/icon-anf.png"
+    url: "../storage-management-azure-netapp-files/index.html"
+    summary: コアビジネス アプリケーション向けの Azure の高パフォーマンス ファイル ストレージ サービス。
+    tags: all,storage,azure
+  - title: Cloud Volumes ONTAP
+    icon: "./media/icon-cvo.png"
+    url: "../storage-management-cloud-volumes-ontap/index.html"
+    summary: クラウド ストレージをより手頃な価格で、インテリジェントに、コンプライアンスに準拠し、安全にします。
+    tags: all,storage,aws,azure,gcp, subscriptions
+  - title: Eシリーズシステム
+    icon: "./media/icon-e-series.png"
+    url: "../storage-management-e-series/index.html"
+    summary: ハイブリッド マルチクラウド全体のデータを完全に表示するには、E シリーズ システムをご確認ください。
+    tags: all,on-prem
+  - title: Google Cloud NetApp Volumes
+    icon: "./media/icon-cvs.png"
+    url: "../storage-management-google-cloud-netapp-volumes/index.html"
+    summary: ファイルストレージを安全に保護し、高速化します。
+    tags: all,storage,gcp
+  - title: Google Cloud Storage
+    icon: "./media/icon-google-cloud-storage.png"
+    url: "../storage-management-google-cloud-storage/index.html"
+    summary: Google アカウント内の Cloud Storage バケットを検出し、管理します。
+    tags: all,gcp
+  - title: Keystone
+    icon: "./media/icon-keystone.png"
+    url: "../keystone-staas/index.html"
+    summary: NetAppコンソールからKeystoneサブスクリプションにアクセスして管理します。
+    tags: all,subscriptions
+  - title: オンプレミスのONTAPクラスタ
+    icon: "./media/icon-onprem.png"
+    url: "../storage-management-ontap-onprem/index.html"
+    summary: System Manager とNetAppデータ サービスを使用して、 NetAppコンソールからオンプレミスのONTAPクラスターを管理します。
+    tags: all,on-prem
+  - title: StorageGRID
+    icon: "./media/icon-storagegrid.png"
+    url: "../storage-management-storagegrid/index.html"
+    summary: StorageGRIDシステムを管理します。
+    tags: all,on-prem
