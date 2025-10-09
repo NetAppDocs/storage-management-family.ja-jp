@@ -1,8 +1,8 @@
 ---
 product-family:
-  title: NetAppコンソールストレージ管理
-  lead: NetAppコンソールは、オンプレミスおよびマルチクラウド環境全体のストレージとデータ サービスの集中管理を提供します。統合された制御、操作の簡素化、安全な管理を実現します。ストレージ製品別に参照するか、検索を使用します。
-  summary: NetAppコンソールは、オンプレミスおよびマルチクラウド環境全体のストレージとデータ サービスの集中管理を提供します。統合された制御、操作の簡素化、安全な管理を実現します。ストレージ製品別に参照するか、検索を使用します。
+  title: NetApp Consoleストレージ管理
+  lead: NetApp Consoleは、オンプレミスおよびマルチクラウド環境全体のストレージとデータ サービスの集中管理を提供します。統合された制御、操作の簡素化、安全な管理を実現します。ストレージ製品別に参照するか、検索を使用します。
+  summary: NetApp Consoleは、オンプレミスおよびマルチクラウド環境全体のストレージとデータ サービスの集中管理を提供します。統合された制御、操作の簡素化、安全な管理を実現します。ストレージ製品別に参照するか、検索を使用します。
   sidebarlinks:
   - title: 全て
     tags: all
@@ -13,9 +13,9 @@ product-family:
     tags: azure
   - title: Google Cloud
     tags: gcp
-  - title: NetAppデータサービス
+  - title: NetApp Data Services
     tags: data services
-  - title: NetAppコンソール
+  - title: NetApp Console
     tags: console
   - title: オンプレミス
     tags: on-prem
@@ -25,14 +25,14 @@ product-family:
   - title: リリース ノート
     icon: "./media/icon-docs.png"
     url: "../console-relnotes/index.html"
-    summary: NetAppコンソール ストレージ管理とNetAppデータ サービスの新機能について説明します。
+    summary: NetApp Consoleストレージ管理とNetAppデータ サービスの新機能について説明します。
     tags: all
-  - title: NetAppコンソール管理
+  - title: NetApp Console管理
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
-    summary: NetAppコンソールの使用を開始し、アイデンティティとアクセス管理、エージェントなどを管理する方法を学習します。
+    summary: NetApp Consoleの使用を開始し、アイデンティティとアクセス管理、エージェントなどを管理する方法を学習します。
     tags: all,console
-  - title: NetAppデータサービス
+  - title: NetApp Data Services
     icon: "./media/icon-storagegrid.png"
     url: "../data-services-family/index.html"
     summary: データ インフラストラクチャのセキュリティを確保し保護するためのNetAppデータ サービスをご確認ください。
@@ -80,12 +80,12 @@ product-family:
   - title: Keystone
     icon: "./media/icon-keystone.png"
     url: "../keystone-staas/index.html"
-    summary: NetAppコンソールからKeystoneサブスクリプションにアクセスして管理します。
+    summary: NetApp ConsoleからKeystoneサブスクリプションにアクセスして管理します。
     tags: all,subscriptions
   - title: オンプレミスのONTAPクラスタ
     icon: "./media/icon-onprem.png"
     url: "../storage-management-ontap-onprem/index.html"
-    summary: System Manager とNetAppデータ サービスを使用して、 NetAppコンソールからオンプレミスのONTAPクラスターを管理します。
+    summary: System Manager とNetAppデータ サービスを使用して、 NetApp ConsoleからオンプレミスのONTAPクラスターを管理します。
     tags: all,on-prem
   - title: StorageGRID
     icon: "./media/icon-storagegrid.png"
