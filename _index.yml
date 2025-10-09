@@ -31,7 +31,7 @@ product-family:
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
     summary: NetAppコンソールの使用を開始し、アイデンティティとアクセス管理、エージェントなどを管理する方法を学習します。
-    tags: all,connectors,iam
+    tags: all,console
   - title: NetAppデータサービス
     icon: "./media/icon-storagegrid.png"
     url: "../data-services-family/index.html"
@@ -70,7 +70,7 @@ product-family:
   - title: Google Cloud NetApp Volumes
     icon: "./media/icon-cvs.png"
     url: "../storage-management-google-cloud-netapp-volumes/index.html"
-    summary: ファイルストレージを安全に保護し、高速化します。
+    summary: Google Cloud の高性能ファイル ストレージ サービス。
     tags: all,storage,gcp
   - title: Google Cloud Storage
     icon: "./media/icon-google-cloud-storage.png"
