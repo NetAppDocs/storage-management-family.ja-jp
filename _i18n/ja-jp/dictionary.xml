@@ -39,4 +39,6 @@
   <block id="392d70ca39f31f10bd637936769788df" category="sidebar">StorageGRID</block>
   <block id="a36df6033de16c49cfa4f18bcdec18c4" category="sidebar">StorageGRIDシステムを管理します。</block>
   <block id="228961654a1973046cdceb22f94daf65" category="sidebar">NetApp Consoleのストレージ管理ドキュメント</block>
+  <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">ワークロード</block>
+  <block id="c1b0831c02312777a947c0ce92d1c783" category="sidebar">FSx for ONTAP のプロビジョニング、ガバナンス、ライフサイクルを自動化します。コスト削減と高度な管理について詳しく見る。</block>
 </blocks>
